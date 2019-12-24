@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: thanit456/two_personal_blog
 
 media_folder: static/assets
 public_folder: assets
